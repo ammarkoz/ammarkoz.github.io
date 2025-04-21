@@ -1,9 +1,3 @@
-/**
- * Main JavaScript file for Ammar Alawaidi's Portfolio
- * Author: Manus AI
- * Version: 1.0
- */
-
 // Initialize AOS (Animate On Scroll)
 document.addEventListener('DOMContentLoaded', function() {
     // Initialize AOS
